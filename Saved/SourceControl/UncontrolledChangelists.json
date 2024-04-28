@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/willi/Desktop/GAM_380/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/willi/Desktop/GAM_380/Content/StarterContent/Maps/HalfNote.umap",
+				"C:/Users/willi/Desktop/GAM_380/Content/StarterContent/Maps/_GENERATED/willi/Sphere_437076B7.uasset",
+				"C:/Users/willi/Desktop/GAM_380/Content/StarterContent/Maps/_GENERATED/willi/Torus_9452022A.uasset",
+				"C:/Users/willi/Desktop/GAM_380/Content/StarterContent/Maps/_GENERATED/willi/Torus_7D361A82.uasset",
+				"C:/Users/willi/Desktop/GAM_380/Content/StarterContent/Maps/_GENERATED/willi/Sphere_9ECBD7FB.uasset",
+				"C:/Users/willi/Desktop/GAM_380/Content/StarterContent/Maps/_GENERATED/willi/Sphere_4545955E.uasset",
+				"C:/Users/willi/Desktop/GAM_380/Content/StarterContent/Maps/_GENERATED/willi/Rectangle_6A65F50A.uasset",
+				"C:/Users/willi/Desktop/GAM_380/Content/StarterContent/Maps/_GENERATED/willi/Box_54FAFDED.uasset",
+				"C:/Users/willi/Desktop/GAM_380/Content/StarterContent/Maps/HalfNote_BuiltData.uasset",
+				"C:/UE_5.1/Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset",
+				"C:/UE_5.1/Engine/Content/EditorMaterials/Cascade/CASC_ModuleDisable_MAT.uasset",
+				"C:/UE_5.1/Engine/Content/EditorMaterials/Cascade/CASC_BackgroundCube_MAT.uasset",
+				"C:/UE_5.1/Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset",
+				"C:/UE_5.1/Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset",
+				"C:/Users/willi/Desktop/GAM_380/Content/Primitive_Characters_Pack/Demoscene_UE4/Mesh/Player_BlendSpace.uasset",
+				"C:/Users/willi/Desktop/GAM_380/Content/Character/Player_AnimBP.uasset",
+				"C:/Users/willi/Desktop/GAM_380/Content/Character/Player_BP.uasset",
+				"C:/Users/willi/Desktop/GAM_380/Content/Character/SK_Primitive_02_Full.uasset",
+				"C:/Users/willi/Desktop/GAM_380/Content/Character/NoteGameModeBase.uasset",
+				"C:/Users/willi/Desktop/GAM_380/Content/Character/UI_WidgetBP.uasset",
+				"C:/Users/willi/Desktop/GAM_380/Content/Character/MYHUD.uasset",
+				"C:/Users/willi/Desktop/GAM_380/Content/Character/MusicNote_BP.uasset",
+				"C:/UE_5.1/Engine/Content/EditorMaterials/Cross_Mat.uasset",
+				"C:/Users/willi/Desktop/GAM_380/Content/Character/UIGameOver_WidgetBP.uasset",
+				"C:/Users/willi/Desktop/GAM_380/Content/Character/Bomb_BP.uasset",
+				"C:/Users/willi/Desktop/GAM_380/Content/Character/Player_BlendSpace.uasset"
+			]
+		}
+	]
+}
